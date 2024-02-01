@@ -149,3 +149,8 @@ See also #19 for alternative described impact
 
 As confirmed by sponsor, watsons highlighted a valid scenario where re-addition of a removed token is not possible, so this would constitute breaking core contract functionality of readding tokens, so medium severity is appropriate.
 
+**traceurl**
+
+We have fixed the bug in this PR: 
+https://github.com/DODOEX/dodo-v3/pull/8
+
